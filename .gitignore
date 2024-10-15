@@ -1,0 +1,3 @@
+# Ignore crawler log files
+crawler.log
+*.log
